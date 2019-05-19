@@ -1,0 +1,11 @@
+ID
+Name
+Gender
+Month
+Day
+Year
+Age
+Color
+Type
+Breed
+Price
